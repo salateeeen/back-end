@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="18bc2856-8474-40bb-a9dd-13295bc42a57" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../me.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/me/collections.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../out/production/me/out/production/collections/collections.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../[cabinId]/exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../[cabinId]/proc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../[cabinId]/process.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../[cabinId]/thr" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../[cabinId]/threads" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../[cabinId]/threads.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../[cabinId]/threads2.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUPER/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUPER/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUPER/Sup.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUPER/Sup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUPER/Super.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../SUPER/Super.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../data-base/media/pkey/2025-04-01 01_47_55-Greenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../data-base/media/pkey/2025-04-01 01_58_18-Greenshot.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Array.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Array.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Destructuring.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Destructuring.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Dom1.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Dom1.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Dom1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Dom2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Dom2.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Filter.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Filter.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Function.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Function.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/If.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/If.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Intl.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Intl.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Logic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Logic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Loop.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Loop.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Map.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/MapData.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/MapData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/OOP.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/OOP.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Object.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Object.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Reduce.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Reduce.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Regular.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/Regular.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/SetData.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/SetData.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/arithmetic.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/arithmetic.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/asyncTest.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/asynchronous.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/asynchronous.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/forEach.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/forEach.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/hoisted.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/hoisted.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/inheritance.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/inheritance.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/json.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/json.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/json.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/mars.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/math.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/math.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/number.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/number.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/objectReferences.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/objectReferences.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/output.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/scopeObject.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/scopeObject.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/string.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/string.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/this.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/this.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/time.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/time.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/timers.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/timers.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/variable.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Me/variable.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/AcountClass/accountClass.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/AcountClass/accountClass.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Advanced-DOM-Bankist/starter/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Advanced-DOM-Bankist/starter/img/card.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Advanced-DOM-Bankist/starter/img/img-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Advanced-DOM-Bankist/starter/img/img-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Advanced-DOM-Bankist/starter/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Advanced-DOM-Bankist/starter/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Advanced-DOM-Bankist/starter/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Advanced-DOM-Bankist/test/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Advanced-DOM-Bankist/test/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Arrays-Bankist/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Arrays-Bankist/Bankist-flowchart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Arrays-Bankist/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Arrays-Bankist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Arrays-Bankist/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Arrays-Bankist/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Arrays-Bankist/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Arrays-Bankist/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Asynchronous/final/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Asynchronous/final/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Asynchronous/final/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Asynchronous/final/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Asynchronous/starter/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Asynchronous/starter/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Asynchronous/starter/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Asynchronous/starter/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Guess-My-Number/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Guess-My-Number/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Guess-My-Number/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Mapty/final/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Mapty/final/Mapty-architecture-final.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Mapty/final/Mapty-architecture-part-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Mapty/final/Mapty-flowchart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Mapty/final/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Mapty/final/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Mapty/final/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Mapty/final/other.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Mapty/final/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Mapty/final/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Mapty/starter/.prettierrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Mapty/starter/Mapty-architecture-final.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Mapty/starter/Mapty-architecture-part-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Mapty/starter/Mapty-flowchart.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Mapty/starter/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Mapty/starter/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Mapty/starter/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Mapty/starter/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Mapty/starter/scriptClass.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Mapty/starter/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Mapty/starter/test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Modal/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Modal/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Modal/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Pig-Game/dice-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Pig-Game/dice-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Pig-Game/dice-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Pig-Game/dice-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Pig-Game/dice-5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Pig-Game/dice-6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Pig-Game/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Pig-Game/script.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/js/Projects/Pig-Game/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../front-end/media/GYsmR01W4AAmYxU.jfif" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3JhhDciTREvX9hr65xedV9mNmpF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Application.ArrayOfObjects.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayOperations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/sultan/Documents/program/back-end/java/me/04-arrays&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/home/sultan/Documents/program/back-end/java/me/arrays/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.ArrayOfObjects">
+    <configuration name="ArrayOfObjects" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-27" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="ArrayOfObjects" />
+      <module name="04-arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="UNNAMED_CLASS_CONFIGURATION" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="04-arrays" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-a203e0a19954-intellij.indexing.shared.core-IU-262.10968.63" />
+        <option value="bundled-js-predefined-d6986cc7102b-4abd2a77f808-JavaScript-IU-262.10968.63" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="18bc2856-8474-40bb-a9dd-13295bc42a57" name="Changes" comment="" />
+      <created>1790119093347</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1790119093347</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/ArrayOperations.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

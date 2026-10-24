@@ -1,0 +1,1 @@
+SELECT * FROM mazraeatak_db.farms_facilities
